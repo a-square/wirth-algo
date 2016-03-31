@@ -1,0 +1,11 @@
+# standard stuff
+*~
+
+# binaries
+/bin/*
+!/bin/.gitkeep
+
+# intermediates
+*_m2.cpp
+*_m2.s
+*.o
